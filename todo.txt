@@ -1,0 +1,4 @@
+- create project for university game the snake
+- made this project with Белоусова Ульяна
+- цель проекта:
+1. стандартная игра в змейку с использование юнити
